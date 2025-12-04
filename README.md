@@ -17,7 +17,7 @@ This platform allows digital artists to **showcase, promote, and sell their artw
 | Page | Description |
 |------|-------------|
 | `index.html` | Home / Landing page |
-| `dashboard.html` | User stats & activity overview |
+| `home.html` | User stats & activity overview |
 | `gallery.html` | Displays artworks |
 | `register.html` | User registration page |
 | `login.html` | Login page |
@@ -34,3 +34,12 @@ This platform allows digital artists to **showcase, promote, and sell their artw
 ---
 
 ## 📁 Folder Structure
+FED Project/
+│
+├── index.html
+├── home.html
+├── gallery.html
+├── register.html
+├── login.html
+├── about.html
+└── style.css

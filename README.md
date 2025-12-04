@@ -32,14 +32,3 @@ This platform allows digital artists to **showcase, promote, and sell their artw
 | CSS | Styling & layout (display:flex + responsiveness) |
 
 ---
-
-## 📁 Folder Structure
-FED Project/
-│
-├── index.html
-├── home.html
-├── gallery.html
-├── register.html
-├── login.html
-├── about.html
-└── style.css
